@@ -1,1 +1,13 @@
 Funcionalidad del proyecto
+
+Sistemas de favoritos para comicx.
+
+Se implementará una Funcionalidad que nos permita a los usuarios marcar
+como favoritos los comics que les gustan. Esta funcion estará disponible
+desde la vista principal y se guardará por cada usuasrio.
+
+Objetivos:
+- Agregar un botón de favoritos en cada tarjeta de comic
+- Asociar los favoritos al usuario que inicio sesion
+- Mostrar una lista de favoritos personalizada
+
